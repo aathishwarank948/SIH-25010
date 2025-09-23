@@ -132,3 +132,7 @@ Boost rural economy → Higher income improves quality of life, education, healt
 For Government:
 
 Data-driven agriculture → Better planning for MSP, subsidies, and food security.
+
+
+<img width="1815" height="812" alt="Screenshot 2025-09-23 081702" src="https://github.com/user-attachments/assets/185bd690-a4ff-4350-a59e-7f79e705d0f6" />
+
